@@ -1,46 +1,119 @@
 # IP Security Checker / IP Detector
 
-一个免费、专业、实用的 **IP 安全检测与代理质量诊断工具**。
+Free browser IP leak checker for WebRTC, DNS, proxy and residential IP detection.
 
-帮助 TikTok、Amazon、Shopee 出海卖家和多账号运营者快速判断 IP 是否干净、安全、是否泄漏。
+Built for VPN users, proxy users, privacy testing and multi-account workflows.
 
-## ✨ 核心功能
-
-- IP 类型智能识别（Residential / Datacenter / VPN / Proxy）
-- WebRTC 泄漏检测（防止真实 IP 暴露）
-- Ping 多节点延迟测试
-- IP 风险评分
-- 多语言支持（English / 中文 / Русский）
-
-## 🚀 立即使用
-
-**🔗 在线工具地址：**
-
-- [English](https://ipcheck.ccwu.cc/en)
-- [中文](https://ipcheck.ccwu.cc/zh)
-- [Русский](https://ipcheck.ccwu.cc/ru)
-
-## 📸 截图
-
-<img width="1112" height="691" alt="image" src="https://github.com/user-attachments/assets/97b1370d-f462-47f3-a8db-662dae4ff420" />
-
-
-## 🛠️ 技术栈
-
-- 前端：Next.js / Vue3
-- 全球多节点检测
-
-## 📌 使用场景
-
-- TikTok / TikTok Shop 账号养号
-- Amazon 多店铺运营
-- 住宅代理质量验证
-- WebRTC 泄漏风险排查
-
-## 🤝 欢迎贡献
-
-欢迎提交 Issue 和 Pull Request，一起完善这个工具！
+![status](https://img.shields.io/badge/status-online-brightgreen)
+![privacy](https://img.shields.io/badge/privacy-no_tracking-blue)
+![free](https://img.shields.io/badge/free-forever-orange)
 
 ---
 
-**Made with ❤️ for the overseas community**
+## 🌐 Live Demo
+
+- English: https://ipcheck.ccwu.cc/en
+- 中文: https://ipcheck.ccwu.cc/zh
+- Русский: https://ipcheck.ccwu.cc/ru
+
+---
+
+## 📸 Screenshot
+
+<img width="1112" height="691" alt="IP Detector Screenshot" src="https://github.com/user-attachments/assets/97b1370d-f462-47f3-a8db-662dae4ff420" />
+
+---
+
+## Why I Built This
+
+I built this tool after running into proxy and VPN setups that looked fine at first, but still leaked local IPs through WebRTC or DNS.
+
+Most existing tools were either too technical, overloaded with ads, or focused on only one type of leak.
+
+So I wanted a simpler all-in-one IP environment checker that works instantly in the browser.
+
+---
+
+## ✨ Features
+
+- Detect WebRTC leaks
+- Detect DNS mismatches
+- Identify Residential / Datacenter / VPN / Proxy IPs
+- Browser IP consistency check
+- Multi-node latency testing
+- IP reputation and risk analysis
+- Multi-language support
+
+---
+
+## 📌 Use Cases
+
+- Verify VPN or proxy setup before account login
+- Test whether WebRTC exposes your local IP
+- Check residential proxy quality
+- Detect IP consistency issues across browsers
+- Troubleshoot DNS leak problems
+- Validate browser network environment before sensitive operations
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- Vue 3
+- WebRTC detection
+- IP intelligence APIs
+- Multi-region latency testing
+
+---
+
+## 🔍 What This Tool Checks
+
+This tool can help identify:
+
+- WebRTC IP leaks
+- DNS leaks
+- Datacenter IPs
+- VPN / Proxy detection
+- Suspicious IP reputation
+- Latency anomalies
+- Browser network inconsistencies
+
+---
+
+## 🚀 Roadmap
+
+Planned features:
+
+- Browser fingerprint analysis
+- ASN and ISP details
+- Screenshot report export
+- Historical IP comparison
+- IPv6 deep detection
+- API access
+
+---
+
+## 🤝 Contributing
+
+Issues and Pull Requests are welcome.
+
+If you have ideas for additional detection methods or privacy checks, feel free to contribute.
+
+---
+
+## ⭐ Support
+
+If this project helps you, consider giving it a star.
+
+It helps more people discover the project.
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+Made with ❤️ for the privacy and overseas community.
