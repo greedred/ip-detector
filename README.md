@@ -20,7 +20,12 @@ Built for VPN users, proxy users, privacy testing and multi-account workflows.
 
 ## 📸 Screenshot
 
-<img width="1112" height="691" alt="IP Detector Screenshot" src="https://github.com/user-attachments/assets/97b1370d-f462-47f3-a8db-662dae4ff420" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/77043974-e411-4665-915f-654a0a3c3ff4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c88a0d6c-4823-4db7-8b0a-84746fb1b6e1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/597115a9-b03c-4422-80b4-ddb6d3dc1d89" />
+
+
+
 
 ---
 
